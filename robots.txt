@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veerendranambula.github.io/veerendra_nambula_resume/sitemap.xml
