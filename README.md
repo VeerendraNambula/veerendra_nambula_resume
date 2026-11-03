@@ -1,9 +1,10 @@
-# Veerendra Nambula — Resume
+# Veerendra Nambula — Portfolio & Resume
 
-This repository contains a PDF copy of my resume.
+Welcome to my portfolio repository.
 
-## Download
+- **Portfolio website:** https://veerendranambula.github.io/veerendra_nambula_resume/
+- **Resume:** [View or download PDF](veerendra_nambula_resume.pdf)
+- **GitHub profile:** [VeerendraNambula](https://github.com/VeerendraNambula)
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/veerendra-nambula)
 
-[**View or download my resume**](veerendra_nambula_resume.pdf)
-
-For an overview of my work and selected projects, visit my [GitHub profile](https://github.com/VeerendraNambula).
+The portfolio is a responsive static website built with HTML and CSS and hosted using GitHub Pages.
